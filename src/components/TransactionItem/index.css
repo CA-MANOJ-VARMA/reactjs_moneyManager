@@ -1,0 +1,47 @@
+/* Write your CSS here */
+.css-historyDetails-container {
+  display: flex;
+  flex-direction: column;
+  /* width: 500px; */
+  margin-left: 30px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.css-header-container {
+  display: flex;
+  justify-content: flex-start;
+  gap: 100px;
+}
+
+.css-ul-historyExpenses-container {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.css-expenses-delete-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 100px;
+}
+
+.css-delete-button-itself {
+  background-color: transparent;
+  border-width: 0;
+}
+
+.css-button-container {
+  width: 20px;
+}
+
+.css-type-delete-container {
+  display: flex;
+  align-items: center;
+}
+
+.css-para-container {
+  width: 100px;
+}
